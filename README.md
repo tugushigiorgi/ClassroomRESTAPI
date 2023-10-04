@@ -1,5 +1,5 @@
-# GoogleClassroomRESTAPI
-Google Classroom Rest Api 
+# ClassroomRESTAPI
+Classroom Rest Api 
 Key Features
 
 
