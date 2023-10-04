@@ -38,7 +38,7 @@ Key Features
   - **Setting Assignment Deadlines:**  
      Teachers can establish deadlines for assignments, ensuring that students are aware of submission timelines.
 
-     - **Marking Student Assignments:**  
+  - **Marking Student Assignments:**  
      Enables teachers to provide feedback and assessments by grading and marking student assignments.
      
    - **Commenting on Assignments:**  
