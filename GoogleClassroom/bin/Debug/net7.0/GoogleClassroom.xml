@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GoogleClassroom</name>
+    </assembly>
+    <members>
+        <member name="T:GoogleClassroom.Migrations.initial">
+            <inheritdoc />
+        </member>
+        <member name="M:GoogleClassroom.Migrations.initial.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:GoogleClassroom.Migrations.initial.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:GoogleClassroom.Migrations.initial.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:GoogleClassroom.Migrations.addsurname">
+            <inheritdoc />
+        </member>
+        <member name="M:GoogleClassroom.Migrations.addsurname.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:GoogleClassroom.Migrations.addsurname.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:GoogleClassroom.Migrations.addsurname.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:GoogleClassroom.Migrations.surnamead">
+            <inheritdoc />
+        </member>
+        <member name="M:GoogleClassroom.Migrations.surnamead.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:GoogleClassroom.Migrations.surnamead.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:GoogleClassroom.Migrations.surnamead.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
