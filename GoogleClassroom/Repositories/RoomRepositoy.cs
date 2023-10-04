@@ -335,7 +335,7 @@ namespace GoogleClassroom.Repositories
 
             }
              
-                if (!room.RoomOwnerID.ToString().Equals( currentuser.Id))
+                if (room.RoomOwnerID!= currentuser.Id)
                 {
                 return new ControllerResponse
                 {
