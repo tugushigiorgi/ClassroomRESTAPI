@@ -3,7 +3,7 @@ Google Classroom Rest Api
 Key Features
 
 
-Google Classroom REST API with ASP.NET Core
+ 
 
  
 
@@ -25,7 +25,7 @@ Google Classroom REST API with ASP.NET Core
 **3. Post and Comment Management:**
 
    - **Posting Messages:**  
-     Facilitate effective communication within the classroom. Both teachers and students can post messages for announcements and discussions.
+    Both teachers and students can post messages for announcements and discussions.
      
  
 
@@ -34,8 +34,11 @@ Google Classroom REST API with ASP.NET Core
   
    - **Uploading Files to Assignments:**  
      Students can upload files in  their assignment submissions, allowing for the submission of documents, images, and other relevant materials.
-     
-   - **Marking Student Assignments:**  
+
+  - **Setting Assignment Deadlines:**  
+     Teachers can establish deadlines for assignments, ensuring that students are aware of submission timelines.
+
+     - **Marking Student Assignments:**  
      Enables teachers to provide feedback and assessments by grading and marking student assignments.
      
    - **Commenting on Assignments:**  
@@ -43,3 +46,41 @@ Google Classroom REST API with ASP.NET Core
  
     
 These features collectively provide a beautifully structured virtual classroom experience. Teachers can efficiently manage classrooms, share information, and evaluate student assignments, while students can easily join, participate, submit files, and receive feedback.
+
+
+
+
+## Technologies Used
+
+- `ASP.NET Core 7`: The core framework for building the REST API.
+
+- `Entity Framework Core`: Used for database access and management.
+
+- `ASP.NET Core Identity`: Employed for user authentication and management.
+
+- `JSON Web Tokens (JWT)`: Utilized for secure user authentication and authorization.
+
+ - `Swagger`: documenting and testing API endpoints.
+
+- `Microsoft SQL ` or another supported database: To store application data.
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
