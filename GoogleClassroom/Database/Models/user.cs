@@ -26,6 +26,11 @@ namespace GoogleClassroom.Database.Models
         [JsonIgnore]
 
         public List<PostComment>  postComments = new();
-
+        [JsonIgnore]
+        public override string PasswordHash
+        {
+            get => base.PasswordHash;
+            set => base.PasswordHash = value;
+        }
     }
 }
